@@ -175,13 +175,13 @@ meta标签，这些meta标签在开发webapp时起到非常重要的作用
 
 [手机浏览器常用手势动作监听封装](http://wo.poco.cn/manson/post/id/268780)
 
-###手势事件
+###触摸事件
 * touchstart            //当手指接触屏幕时触发
 * touchmove           //当已经接触屏幕的手指开始移动后触发
 * touchend             //当手指离开屏幕时触发
 * touchcancel
 
-###触摸事件
+###手势事件
 * gesturestart          //当两个手指接触屏幕时触发
 * gesturechange      //当两个手指接触屏幕后开始移动时触发
 * gestureend
